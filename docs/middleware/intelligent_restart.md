@@ -1,4 +1,4 @@
-# Demo: Deploy Application
+# Demo: Intelligent Reboot(middleware)
 
 [Click here to return to master demo list](../../README.md#demo-repository)
 
